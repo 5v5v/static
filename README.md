@@ -1,0 +1,2 @@
+# static
+cache static resources.
